@@ -1,7 +1,7 @@
 {
 	"username": "Dr-Pillsbury",
 	"avatar_url": "https://blog.eu.playstation.com/files/avatars/avatar_4364447.jpg",
-	"content": "{{AuthorName}} uploaded {{Title}} at {{CreatedAt}} {{Url}} ",
+	"content": "Today's Wednesday video is {{Title}} by {{AuthorName}} {{Url}} ",
 	"embeds": {
 		"author": {
 			"name": "{{AuthorName}}",
